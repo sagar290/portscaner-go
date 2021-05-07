@@ -8,10 +8,10 @@ This tools is for scanning port to scan website public port. This is really usef
 
 ## Options
 
-``-host``: host name, default is "scanme.nmap.org"
-``-min``: minimum port number to scan, default is "0"
-``-max``: maximum port number to scan, default is "100"
-``-worker``: number of worker, default is 5
+- ``-host``: host name, default is "scanme.nmap.org"
+- ``-min``: minimum port number to scan, default is "0"
+- ``-max``: maximum port number to scan, default is "100"
+- ``-worker``: number of worker, default is 5
  
  ## Example
  
