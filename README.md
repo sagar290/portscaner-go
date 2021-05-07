@@ -15,7 +15,7 @@ This tools is for scanning port to scan website public port. This is really usef
  
  ## Example
  
-    >> go run ports_scan.go -host=scanme.nmap.org  -min=70 -max=500
+    >> ports_scan -host=scanme.nmap.org  -min=70 -max=500
     
     #output
     80 open
